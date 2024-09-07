@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">## Hi there 👋
 
 # 💫 About Me:
 🎓 Computer Science student at Mariano Marcos State University, exploring the world of software development, AI, and automation. <br>I am passionate about building real-world solutions through code and continuously expanding my technical skills. <br>Always open to collaboration and learning new things!
