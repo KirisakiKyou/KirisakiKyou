@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋</h1>
+<h1 align="center"> Hi 👋, I'm Fritzjerald Domingo</h1>
 
 # 💫 About Me:
 🎓 Computer Science student at Mariano Marcos State University, exploring the world of software development, AI, and automation. <br>I am passionate about building real-world solutions through code and continuously expanding my technical skills. <br>Always open to collaboration and learning new things!
@@ -23,4 +23,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=KirisakiKyou&icon=5&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
