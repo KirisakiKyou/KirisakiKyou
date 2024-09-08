@@ -3,7 +3,7 @@
 <h3 align="center"> 💫 About Me:
 🎓 Computer Science student at Mariano Marcos State University, exploring the world of software development, AI, and automation. I am passionate about building real-world solutions through code and continuously expanding my technical skills. Always open to collaboration and learning new things!</h3>
 
-- 📫 How to reach me
+- 📫 How to reach me **fritzjeralddomingo@gmail.com**
 - 👨‍💻 All of my projects are available at https://github.com/KirisakiKyou?tab=repositories
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KirisakiKyou&theme=ambient_gradient&no-frame=true&no-bg=false&margin-w=4)
